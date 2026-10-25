@@ -1,0 +1,56 @@
+[
+  {
+    "id": "el-nido",
+    "title": "El Nido, Palawan",
+    "author": "nennnn",
+    "license": "CC BY 2.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:El_Nido_Palawan_Big_Lagoon.jpg",
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/El_Nido_Palawan_Big_Lagoon.jpg/1920px-El_Nido_Palawan_Big_Lagoon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "boracay",
+    "title": "Boracay",
+    "author": "Jhun Sacapano",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boracay_White_Beach.png",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Boracay_White_Beach.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "siargao",
+    "title": "Siargao",
+    "author": "JupitReyes",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cloud_9_Boardwalk,_Siargao.jpg",
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Cloud_9_Boardwalk%2C_Siargao.jpg/1920px-Cloud_9_Boardwalk%2C_Siargao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "bohol",
+    "title": "Chocolate Hills",
+    "author": "P199",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chocolate_Hills_Bohol.JPG",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/af/Chocolate_Hills_Bohol.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "banaue",
+    "title": "Banaue Rice Terraces",
+    "author": "User: (WT-shared) Roundtheworld at  wts wikivoyage",
+    "license": "Public domain",
+    "licenseURL": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Banaue-terrace.JPG",
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Banaue-terrace.JPG/1920px-Banaue-terrace.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "id": "coron",
+    "title": "Coron Island",
+    "author": "Nicko Melendres",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coron_island_-_Straight_out_of_a_dream.jpg",
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Coron_island_-_Straight_out_of_a_dream.jpg/1920px-Coron_island_-_Straight_out_of_a_dream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  }
+]
